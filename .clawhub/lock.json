@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "social-media-content-calendar": {
+      "version": "1.0.0",
+      "installedAt": 1771109779292
+    },
+    "developer": {
+      "version": "1.0.0",
+      "installedAt": 1771109956946
+    },
+    "website": {
+      "version": "1.0.0",
+      "installedAt": 1771110090149
+    },
+    "test-runner": {
+      "version": "1.0.0",
+      "installedAt": 1771110272817
+    },
+    "google-drive": {
+      "version": "1.0.5",
+      "installedAt": 1771204199318
+    },
+    "google-search-console": {
+      "version": "1.0.5",
+      "installedAt": 1771204210786
+    }
+  }
+}
